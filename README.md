@@ -43,7 +43,7 @@ Android only · Free · Works offline
 
 > 🚧 **Beta Release** — This is an early testing version. You may encounter bugs or incomplete features. Send us your feedback as it helps shape the official release.
 
-**[Download Beta APK](./bibliya-beta-version.apk)**
+**[Download Beta APK](https://github.com/QuasarCodeGeek/bibliya-a-pocket-bible/releases/tag/v0.1.0-beta)**
 
 ---
 
