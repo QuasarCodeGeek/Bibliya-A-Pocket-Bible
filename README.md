@@ -1,6 +1,6 @@
 # Bibliya — A Pocket Bible
 
-> A free, offline Bible app for Filipinos — available in English, Tagalog, and Ilocano. No ads. No accounts. Just the Word.
+> A free, offline Bible app featuring English, Tagalog, and Ilocano. No ads. No accounts. Just the Word.
 
 ---
 
@@ -31,11 +31,11 @@ Whether you're at home, attending church, traveling, or living in areas with lim
 
 | Language | Translation | License |
 |----------|-------------|---------|
-| English | Berean Standard Bible (BSB) | BSB Publishing License |
+| English | Berean Standard Bible (BSB) | Used under the Berean Standard Bible License |
 | Tagalog | Banal na Bibliya (TGL-ULB) | CC BY-SA 4.0 |
 | Ilocano | Ti Biblia (ILO-ULB) | CC BY-SA 4.0 |
 
-> Bible texts are sourced from eBible.org and are distributed under their respective licenses. English text is from the Berean Standard Bible (BSB). Tagalog and Ilocano translations are licensed under CC BY-SA 4.0.
+> Bible texts are sourced from eBible.org and are used in accordance with their respective licenses. The English text is from the Berean Standard Bible (BSB), while the Tagalog and Ilocano translations are licensed under CC BY-SA 4.0.
 
 ---
 
@@ -48,11 +48,11 @@ If you have an Android device and would like to help improve the app before its 
 ### How to Join
 
 1. Complete the registration form.
-2. Wait for the invitation email from Google Play.
-3. Accept the invitation and install Bibliya.
-4. Use the app and share any bugs or suggestions.
+2. Install Bibliya once you're accepted as a tester.
+3. Use the app regularly.
+4. Share any bugs or suggestions.
 
-**📝 Beta Tester Registration**
+📝 Beta Tester Registration
 
 https://forms.gle/fwYDzumTKwzYvC9U9
 
@@ -62,9 +62,7 @@ Your feedback helps improve Bibliya for everyone.
 
 ## 💬 Feedback
 
-Found a bug? Have a suggestion?
-
-Please let us know through the beta testing process or submit your feedback after using the application.
+Please share any bugs, suggestions, or improvement ideas during the beta testing period.
 
 Every report helps improve future releases.
 
@@ -82,16 +80,31 @@ An independent software studio building simple, reliable, and meaningful mobile 
 
 ## 📄 License
 
-The application source code is licensed separately from the Bible translations.
+The Bibliya application is © Son Studio.
 
-Bible texts are provided by **eBible.org** and remain subject to their respective licenses (Public Domain and CC BY-SA 4.0).
+Bible translations are provided by their respective copyright holders and are used in accordance with their applicable licenses.
 
-Please refer to the in-app attribution page for complete translation credits and licensing information.
+Please refer to the in-app Attribution page for complete copyright notices, licensing information, and translation sources.
 
 ---
 
 ## ❤️ Acknowledgements
 
-Thank you to everyone participating in the Closed Testing program and helping improve Bibliya before its public release.
+Special thanks to:
+
+- eBible.org
+- BSB Publishing
+- Door43 World Missions Community
+
+...for making these Bible translations available to the community under their respective licenses.
+
+Thank you as well to everyone participating in the Google Play Closed Testing program and helping improve Bibliya before its public release.
 
 > "Your word is a lamp to my feet and a light to my path." — Psalm 119:105
+
+---
+
+
+## ⚠️ Disclaimer
+
+Bibliya is an independent application developed by Son Studio and is not affiliated with, endorsed by, or officially associated with any church, denomination, Bible publisher, or translation organization.
