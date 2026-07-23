@@ -1,78 +1,114 @@
 # Privacy Policy
 
-**Last Updated:** July 3, 2026
+**Last Updated:** July 23, 2026
 
 ## Bibliya – A Pocket Bible
 
-Thank you for using **Bibliya – A Pocket Bible** ("the App"), developed by **Son Studio**.
+Thank you for using **Bibliya – A Pocket Bible** ("Bibliya", "the App"), developed by **Son Studio**.
 
-This Privacy Policy explains how the App handles information when you use it.
+Your privacy is important to us. Bibliya is designed to provide a simple, private, and fully offline Bible reading experience.
+
+---
 
 ## Information We Collect
 
-Bibliya is designed to work primarily offline.
+Bibliya **does not collect, store, or transmit your personal information**.
 
-The App **does not collect, store, or transmit personal information**, including but not limited to:
+The App does **not** collect information such as:
 
 * Name
 * Email address
 * Phone number
 * Location
 * Contacts
-* Photos
+* Photos or media
+* Device identifiers
 * Payment information
 
-The App does not require users to create an account or sign in.
+No account registration or sign-in is required.
 
-## Local Storage
+---
 
-The App stores certain information locally on your device to provide its features, such as:
+## Local Data Storage
 
-* Application settings
-* Reading preferences
-* Bookmarks and other app data (if applicable)
+To provide its features, Bibliya stores certain information **only on your device** using local storage.
 
-This information remains on your device and is not transmitted to Son Studio.
+This may include:
+
+* Selected language
+* Theme preference
+* Reading progress
+* Bookmarks
+* Verse highlights
+* Other application settings
+
+This information never leaves your device and is **not** transmitted to Son Studio or any third party.
+
+---
 
 ## Internet Connection
 
-Most features of the App work without an internet connection.
+Bibliya is designed to function **completely offline** after installation.
 
-The App may open external websites only when you choose to do so, such as viewing Bible translation source or attribution pages.
+An internet connection is only required when you choose to open external links, such as:
+
+* Bible translation attribution pages
+* Project website or repository
+* Privacy Policy
+* Other support or reference pages
+
+---
 
 ## Advertising
 
-Bibliya does **not** display advertisements.
+Bibliya contains **no advertisements**.
+
+---
 
 ## Analytics
 
-The App does **not** use analytics services to track user activity.
+Bibliya does **not** use analytics, telemetry, crash reporting, or user tracking services.
+
+We do not monitor how you use the App.
+
+---
 
 ## Third-Party Services
 
-The App may include links to third-party websites for reference purposes, such as Bible translation attribution pages. These websites have their own privacy policies, and Son Studio is not responsible for their content or privacy practices.
+The App may contain links to third-party websites for reference purposes, including Bible translation attribution pages hosted by eBible.org.
+
+These websites operate independently and have their own privacy policies. Son Studio is not responsible for their content or privacy practices.
+
+---
 
 ## Bible Translations
 
-Bible translations included in the App remain the property of their respective copyright holders and are used in accordance with their applicable licenses.
+Bible translations included in Bibliya remain the property of their respective copyright holders and are used in accordance with their applicable licenses.
 
-Appropriate copyright notices, attribution, and license information are provided within the App.
+Translation attribution, copyright notices, and license information are available within the App.
+
+---
 
 ## Children's Privacy
 
-Bibliya is intended for a general audience and is not specifically directed toward children under the age of 13.
+Bibliya is intended for a general audience and does not knowingly collect personal information from children under the age of 13.
 
-The App does not knowingly collect personal information from children.
+Because the App does not collect personal information from any users, no personal information from children is collected.
+
+---
 
 ## Changes to This Privacy Policy
 
 This Privacy Policy may be updated from time to time.
 
-Any updates will be reflected by revising the "Last Updated" date at the top of this document.
+When changes are made, the **Last Updated** date at the top of this document will be revised.
+
+---
 
 ## Contact
 
-If you have any questions regarding this Privacy Policy, you may contact:
+If you have any questions about this Privacy Policy, you may contact:
 
 **Son Studio**
-Email: **[dev.son.studio@gmail.com](mailto:dev.son.studio@gmail.com)**
+
+📧 **[dev.son.studio@gmail.com](mailto:dev.son.studio@gmail.com)**
